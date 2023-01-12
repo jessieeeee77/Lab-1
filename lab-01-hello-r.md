@@ -86,3 +86,6 @@ Here are some helpful tips :)
 
 - facet_wrap(x,… ) is useful when there is only one variable
 
+
+
+
