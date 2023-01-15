@@ -68,8 +68,13 @@ star_data <- datasaurus_dozen %>%
 ggplot(data=star_data, mapping = aes(x = x, y = y))+
    geom_point()
 
+<<<<<<< HEAD
 star_data %>%
   summarize(r = cor(x, y))
+=======
+```{r plot-star}
+
+>>>>>>> 964aeb9ab66b879e6d9166000e9bc75f082fd89f
 ```
 ### Exercise 4
 
